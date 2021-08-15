@@ -1,4 +1,4 @@
-# Coursera_Data_Science_Capstone
+# coursera_data_science_capstone
 
 This GitHub repository contains all the relevant files for my Applied Data Science Capstone Project, IBM Data Science
 
